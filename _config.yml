@@ -1,17 +1,14 @@
 # Site settings
 title: Lorem Ipsum - Web Developer
-description: "A blog about lorem ipsum ..."
+description: "A blog about zhengzuyao ..."
 baseurl: "" # for test: remove string '/space-jekyll-templa' to ''
-url: "http://victorvoid.github.io/space-jekyll-template/" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.githu.io'
+url: "http://zhengzuyao.github.io/resume/" # for test: remove string 'http://zhengzuyao.github.io' to '' but in production: 'https://yourusername.githu.io'
 # User settings
-username: lorem ipsum
-user_title: Lorem Ipsum - FrontEnd
-email: lorem.lorem@ipsum.com
-twitter_username: loremipsum
-github_username:  loremipsum
-gplus_username:  loremipsum
-disqus_username: loremipsum
-profile_picture: https://68.media.tumblr.com/93f384858e9273d5b980b418e2f2f4d5/tumblr_o5i2aybLJG1uapsfmo2_250.png
+username: zhengzuyao
+user_title: ZhengZuyao - FrontEnd
+email: 313801978@qq.com
+github_username:  ZhengZuyao
+profile_picture: https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497380799724&di=7f156affc84cb6ef76dbf97b99d3fe4b&imgtype=0&src=http%3A%2F%2Fwww.liaoswy.com%2Fqqimg%2Fbd32474085.jpg
 
 # Build settings
 markdown: kramdown
@@ -40,11 +37,8 @@ links:
     url: /about
 # projects in header index
 projects:
-  - name: asciilang
+  - name: resume
     url: https://github.com/victorvoid/asciilang
-  - name: vim-frontend
-    url: https://github.com/victorvoid/vim-frontend
-  - name: generator-capybara
-    url: https://github.com/victorvoid/generator-capybara 
+
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
